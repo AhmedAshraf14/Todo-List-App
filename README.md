@@ -20,6 +20,14 @@ The todo list app is designed for organizing and prioritizing tasks efficiently.
 - **Framework:** UIKit
 - **Local Storage:** UserDefaults
 
+## Video
+
+
+
+https://github.com/user-attachments/assets/69013494-eb71-4719-8be4-cdcc89592788
+
+
+
 ## Installation
 
 1. Clone the repository:
@@ -30,7 +38,7 @@ The todo list app is designed for organizing and prioritizing tasks efficiently.
    ```bash
    cd todo-list-app
    ```
-3. Open project in xcode:
+3. Open project in Xcode:
    ```bash
    open "ToDo List App.xcodeproj"
    ```
