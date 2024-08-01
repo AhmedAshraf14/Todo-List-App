@@ -32,7 +32,7 @@ https://github.com/user-attachments/assets/69013494-eb71-4719-8be4-cdcc89592788
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/todo-list-app.git](https://github.com/AhmedAshraf14/Todo-List-App.git)
+   git clone https://github.com/AhmedAshraf14/Todo-List-App.git
    ```
 2. Navigate to the project directory:
    ```bash
